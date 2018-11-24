@@ -1,6 +1,5 @@
-# StellarGuard
+# Monoeci Guard
 
-[StellarGuard](https://stellarguard.me) - protect your Stellar Lumens with multisig and two factor auth.
 
 # Getting Started
 
